@@ -22,4 +22,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.12',
         "License :: OSI Approved :: MIT License",
     ],
+    license_files=["LICENSE"],
 )
